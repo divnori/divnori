@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a Computer Science student at MIT interested in novel applications of AI/ML for drug discovery and disease diagnosis. Currently, I am working on:
+
+* Generative modeling for de novo drug design
+* Deep learning for receptor-ligand binding prediction
+* Kernel methods for cheminformatics applications
+
+**Skills:** Python, Java, C/C++, Molecular Operating Environment, MATLAB, Arduino
+**Packages:** PyTorch, TF-Keras, PyMOL, RDKit, NLTK, other Python data science libraries
+
 <!--
 **divnori/divnori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
