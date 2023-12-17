@@ -1,10 +1,6 @@
 ### Hi there! My name is Divya.
 
-I am a Computer Science student at MIT interested in novel applications of AI/ML for drug discovery and disease diagnosis. Currently, with the Uhler Group @ Broad Institute and Coley Group @ MIT CS, I am working on:
-
-* Generative modeling for de novo drug design
-* Deep learning for receptor-ligand binding prediction
-* Kernel methods for cheminformatics applications
+I am a Computer Science student at MIT interested in novel applications of AI/ML for drug discovery and disease diagnosis.
 
 **Skills:** Python, Java, C/C++, Molecular Operating Environment, MATLAB, Arduino
 
