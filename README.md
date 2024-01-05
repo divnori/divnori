@@ -1,12 +1,6 @@
 ### Hi there! My name is Divya.
 
-I am a Computer Science student at MIT interested in novel applications of AI/ML for drug discovery and disease diagnosis.
-
-**Skills:** Python, Java, C/C++, Molecular Operating Environment, MATLAB, Arduino
-
-**Packages:** PyTorch, TF-Keras, PyMOL, RDKit, NLTK, other Python data science libraries
-
-Feel free to reach out via email at divnor80@mit.edu
+I am a Computer Science student at MIT interested in novel applications of AI/ML for drug discovery and disease diagnosis. Feel free to reach out via email at divnor80@mit.edu
 
 <!--
 **divnori/divnori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
