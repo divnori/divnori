@@ -1,6 +1,6 @@
 ### Hi there! My name is Divya.
 
-I am a Computer Science student at MIT interested in novel applications of AI/ML for drug discovery and disease diagnosis. Feel free to reach out via email at divnor80@mit.edu
+I am a Computer Science PhD student at Stanford interested in AI for biology. Feel free to reach out dnori@stanford.edu.
 
 <!--
 **divnori/divnori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
